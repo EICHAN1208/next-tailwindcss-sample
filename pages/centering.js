@@ -5,7 +5,7 @@ export default function Centering() {
     <>
       <Spacer />
 
-      <div className="border container mx-auto flex flex-col items-center">
+      <div className="border container mx-auto h-60 flex flex-col items-center">
         <p className="border">Hello</p>
         <p className="border">Hello</p>
         <p className="border">Hello</p>
@@ -13,7 +13,7 @@ export default function Centering() {
 
       <Spacer />
 
-      <div className="border container mx-auto flex justify-center">
+      <div className="border container mx-auto h-60 flex justify-center">
         <div className="border">Hello</div>
         <div className="border">Hello</div>
         <div className="border">Hello</div>
