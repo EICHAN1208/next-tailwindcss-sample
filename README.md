@@ -18,3 +18,7 @@ https://github.com/EICHAN1208/next-tailwindcss-sample/blob/main/pages/position.j
 - 親要素に対して子要素の位置を相対的にポジションを決める
 - 子要素の位置を絶対的に決める
 <img width="1680" alt="image" src="https://user-images.githubusercontent.com/50512657/184155919-8766c334-ed3b-440c-8dbd-29c4c1001a1b.png">
+
+## インライン
+https://github.com/EICHAN1208/next-tailwindcss-sample/blob/main/pages/inline-flex.js
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/50512657/184351378-f3269d76-c7c9-4ea8-8178-c9641b6a1880.png">
